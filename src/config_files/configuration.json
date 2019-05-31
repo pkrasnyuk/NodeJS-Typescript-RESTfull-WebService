@@ -1,0 +1,15 @@
+﻿{
+  "common": {
+    "domain": "localhost",
+    "port": 1200,
+    "logDir": "log",
+    "faviconFile": "./img/favicon.ico"
+  },
+  "db": {
+    "connectionString": "mongodb://localhost:27017/usersServer"
+  },
+  "security": {
+    "privateKey": "39LvDSm45vjYOh90",
+    "tokenExpiry": 3600
+  }
+}
