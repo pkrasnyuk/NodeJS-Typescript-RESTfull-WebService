@@ -1,2 +1,2 @@
-# app_NodeJSRESTfullWebService
-An example of Node.js and TypeScript Restfull Web Service
+# A Node.js and Typescript RESTfull WebService
+An example of Node.js and Typescript Restfull WebService
